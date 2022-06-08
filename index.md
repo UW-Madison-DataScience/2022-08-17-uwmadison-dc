@@ -177,6 +177,7 @@ Modify the block below if there are any special requirements.
 <p id="requirements">
   <strong>Requirements:</strong>
   {% if online == "false" %}
+    Participants must complete <a href="https://datacarpentry.org/r-intro-geospatial/">Introduction to R for Geospatial Data</a> as a pre-requisite.
     Participants must bring a laptop with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
   {% else %}
